@@ -2,7 +2,7 @@
 
 This repository contains a reusable **Terraform/OpenTofu module** and progressive examples for deploying **Oracle Cloud Infrastructure (OCI) Logging** resources as a shared observability layer for OCI services and infrastructure patterns.
 
-It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses-2/)** and is designed to work cleanly with reusable infrastructure modules such as **`terraform-oci-fk-oke`**, **`terraform-oci-fk-compute`**, and **`terraform-oci-fk-vcn`**.
+It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/)** and is designed to work cleanly with reusable infrastructure modules such as **`terraform-oci-fk-oke`**, **`terraform-oci-fk-compute`**, and **`terraform-oci-fk-vcn`**.
 
 Support expectations are documented in [SUPPORT.md](SUPPORT.md).
 
